@@ -22,7 +22,7 @@ body {
 .heading {
     display: flex;
     align-items: center;
-    /*margin-left: 50px;*/
+    margin-left: 50px;
 }
 
 .icon {
