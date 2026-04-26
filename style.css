@@ -14,7 +14,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #1a2e1c;
-    padding: 0 20px;
+    padding: 0 50px;
     transition: all 0.4s ease;
     box-sizing:border-box;
 }
@@ -22,7 +22,7 @@ body {
 .heading {
     display: flex;
     align-items: center;
-    margin-left: 50px;
+    /*margin-left: 50px;*/
 }
 
 .icon {
